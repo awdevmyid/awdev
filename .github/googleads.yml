@@ -1,2 +1,6 @@
-$ git add
-gh repo clone googleads/googleads-mobile-android-examples
+$ git add --all
+$ git status
+# On branch main
+# Changes to be committed:
+# (use "gh repo clone googleads/googleads-mobile-android-examples')
+
